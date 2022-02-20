@@ -1,2 +1,2 @@
-# Formulario-de-DEVs
-um formulario de Devs feito no HTML e CSS
+# Um formulario feito de HTML e CSS acompanhado do Video da Rafaella Ballerini.
+
